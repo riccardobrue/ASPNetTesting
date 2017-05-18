@@ -1,0 +1,8 @@
+c:\Users\Riccardo\Desktop\C# Projects\ASPNetTesting\bin\Debug\netcoreapp1.1\ASPNetTesting.deps.json
+c:\Users\Riccardo\Desktop\C# Projects\ASPNetTesting\bin\Debug\netcoreapp1.1\ASPNetTesting.runtimeconfig.json
+c:\Users\Riccardo\Desktop\C# Projects\ASPNetTesting\bin\Debug\netcoreapp1.1\ASPNetTesting.runtimeconfig.dev.json
+c:\Users\Riccardo\Desktop\C# Projects\ASPNetTesting\bin\Debug\netcoreapp1.1\ASPNetTesting.dll
+c:\Users\Riccardo\Desktop\C# Projects\ASPNetTesting\bin\Debug\netcoreapp1.1\ASPNetTesting.pdb
+c:\Users\Riccardo\Desktop\C# Projects\ASPNetTesting\obj\Debug\netcoreapp1.1\ASPNetTesting.AssemblyInfo.cs
+c:\Users\Riccardo\Desktop\C# Projects\ASPNetTesting\obj\Debug\netcoreapp1.1\ASPNetTesting.dll
+c:\Users\Riccardo\Desktop\C# Projects\ASPNetTesting\obj\Debug\netcoreapp1.1\ASPNetTesting.pdb
